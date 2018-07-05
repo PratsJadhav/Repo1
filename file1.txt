@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-file 1 updated from branch
-=======
 file updated from master
->>>>>>> 757132c31818307be2bc34510b22cc61fa69371b
+
+file 1 updated from branch
+
