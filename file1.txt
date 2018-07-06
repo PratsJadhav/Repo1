@@ -2,3 +2,4 @@ file updated from master
 
 file 1 updated from branch
 
+changes in file1
